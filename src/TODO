@@ -1,0 +1,1 @@
+* Replace BN with std::bitset or boost::dynamic_bitset
